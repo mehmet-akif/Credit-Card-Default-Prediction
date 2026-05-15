@@ -91,6 +91,3 @@ The project includes Random Forest feature importance analysis to identify the m
 ---
 
 
-├── feature_importance.png
-├── requirements.txt
-└── README.md
